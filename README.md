@@ -1,4 +1,4 @@
 # to-start
-Halo github
-This is my first day in github.
+Halo github!\n
+This is my first day in github.\n
 Hope i can be a great coder one day!
